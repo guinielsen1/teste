@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(18, 129, 219);
+    text-align: center;
+    color: white;
+    font-size: 25px
+}
+
+img#ney{
+    border-radius: 100%;
+    height: 200px;
+}
